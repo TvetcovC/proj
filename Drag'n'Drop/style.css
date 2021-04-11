@@ -1,0 +1,9 @@
+body {
+    height: 300vh;
+}
+#ball {
+    background-color: #000;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
